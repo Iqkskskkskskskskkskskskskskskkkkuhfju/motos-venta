@@ -1,0 +1,178 @@
+
+*.menu {
+	padding: 0;
+	}
+.menu li
+	 {
+	 	display: inline;
+	 }
+.menu li a
+	 {
+	 	font-family: Arial;
+		 font-size: 11px;
+		 text-decoration: none;
+		 float:left;
+		 padding: 10px;
+		 background-color: #ff0000;
+		 color: #fff;
+	  }
+.menu li a:hover
+	 {
+	 	cursor:url(.Informática/johndeere.png), auto;
+	 	background-color: #0000ff;
+		 margin-top: -2;
+		 padding-bottom: 12px;
+	 }
+table
+	 {
+	 	border: #cc0b30 1px solid;
+	 }
+	 td, th
+	 {
+	 	border: green 1px solid;
+	 }
+body, html
+	 {
+	 	background-image: url(./images/xdd.png);
+		 background-repeat: no-repeat;
+		 background-attachment: fixed;
+		 background-position: center center;
+		 background-size: cover;
+	 }
+body{
+	background-color: write;
+	text-algin: center;
+	}
+	h1{
+		font-family: arial,helvetica,sans-serif;
+		color:Black;
+		font-size: 40px;
+	}
+	h2{
+		font-family: "times new roman", times, serif;
+		color: #ff0000;
+		font-size: 30px;
+		}
+		h3{
+		font-family: georgia, "times new roman", times, serif;
+		color: green;
+		font-size: 25px;
+		}
+		p{
+		font-family: cursive;
+		color: red;
+		font-size: 20px;
+		}
+  
+body, html
+	{
+	background-color: #ff7514;
+	}
+#contenedor {
+	width: 100%;
+	margin: auto;
+	padding: 5px;
+	}
+header
+	{
+	background-image: url(./images/o.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	width: 130%;
+	height: 20em;
+	background-color: gn;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	padding-top: 20px;
+	text-algin: center;
+	color: #fff
+	}
+nav
+   {
+	width: 130%;
+	height: 2em;
+	background-color: #000000;
+	text-algin: center;
+	color: #fff
+	}
+section
+	{
+	width: 130%;
+	height: 73em;
+	background-color: #92c5fc;
+	border-radius: 10px;
+	padding-top: 20px;
+	text-algin: center;
+	color: #fff
+	}
+article
+	{
+	background-image: url(./images/milpa1.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	width: 70%;
+	height: 72em;
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding-top: 1px;
+	text-algin: center;
+	color: #000000;
+	float: left;
+	}
+aside
+	{
+	background-image: url(./images/oo.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	width: 28%;
+	height: 28em;
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding-top: 1px;
+	margin: 1px;
+	text-algin: center;
+	color: #000000;
+	float:right;
+	}
+footer
+	{
+	background-image: url(./images/ooo.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	width: 130%;
+	height: 9.5em;
+	background-color: #000;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	padding-top: 10px;
+	text-algin: center;
+	color: #fff
+	}
+  h1{
+		font-family: arial,helvetica,sans-serif;
+		color:Black;
+		font-size: 40px;
+	}
+	h2{
+		font-family: "times new roman", times, serif;
+		color: #489950;
+		font-size: 30px;
+		}
+		h3{
+		font-family: georgia, "times new roman", times, serif;
+		color: #004737;
+		font-size: 25px;
+		}
+		p{
+		font-family: cursive;
+		color: red;
+		font-size: 25px;
+		}
